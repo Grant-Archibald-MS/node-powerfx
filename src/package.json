@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "Example NodeJs application that integrates with Power Fx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grant Archibald",
+  "license": "MIT",
+  "dependencies": {
+    "edge-js": "^22.7.0"
+  }
+}

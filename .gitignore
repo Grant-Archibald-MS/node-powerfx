@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# bin
+**/bin
+**/obj
+
+# VS Code
+**/.vs
+
+# User Config files
+**/*.user
